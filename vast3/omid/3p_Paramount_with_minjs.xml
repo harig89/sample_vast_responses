@@ -10,9 +10,11 @@
 							<Impression>
 								<![CDATA[ https://aax-us-east.amazon-adsystem.com/e/is/4594edbd67f6036aaf359ba8c28d77b9/imp?b=I4oYsx3X8-DeDFyoMxPJogYAAAGCRjSLwwEAAADMBABHRrjw&w=18.0&bi=qNSUtP9-1UzcwiB.Td2qKdOBl-obKf35HiKCfLW5epgNs3BthR03u3YYewi69F5sdR3mPKGgSSStCegjjux3k6BAPcxdX2uK0P2cFGQwRf7H1B4BRMO4eaD5WvSd.AMpYdxUH-9p1NZtYbOxGMrx7DXQV8a6Ydkr77ZqzSUljVT70hYlkHdWswnUlgrBfI-rCxR-Y31T2VG0-hRquq0YQ1qh5.v5M.AZ6wwnKGdYjcsf-SRi3VRwb.T--yGr00jrLVyM4upLvKWYcOwJyjhRoZz3qEJlOalNOE3GAsbkcLfhkFtmSpA9JMsoj6U3yX7XaEgciBj5WV3jasZfy8twBufEU46XYq5A66x9MXXlh1vCbHqfObqvpSeieSg1K8K76o1uG4r9Jnfqw31Jgteahm3hV8eX4taTM6Ele.8zSB53sUbb2vSySHb57dGrxGY2.N4uVcW7MwkjEQ4-IqT4FJS37Te04y2Su3sKvLnTlS4Z5j1mTkfxJCOJXO7y8o.TGgG3wEgFCamh.cGVkHPGmIWpEcKH7NON9Hx8toff.nU_ ]]>
 							</Impression>
+							
 							<Impression>
 								<![CDATA[ https://s.amazon-adsystem.com/iui3?d=forester-did&gdpr_pd=1&gdpr_consent=&gdpr=0&v-args=%3Ft%3D1%26d%3D30.13%26ct%3D1014,1020,%26ca%3D-%26s%3D204&ex-fargs=%3Fi%3DejhoJfTm4GzU5o5KHf5vmA%26e%3DvideoImpression%26a%3D583636564734772364%26c%3D579547704509892279%26s%3Dpda%26u%3DihizHdfz4N4MXKgzE8miBg&ex-fch=416719&cb=4,564,547,386,930,200,405&vdb=1014,1020,:-:1:video:-:30:204 ]]>
 							</Impression>
+							<Impression>http://aax-us-east-test.amazon-adsystem.com/x/px/1234/%7B%22type%22:%22impression%22%7D</Impression>
 							<Creatives>
 								<Creative id="2bd50acbb5c3b4c8318ef8e2af4663285e91322612bcc84730fb68dce40eb10e" AdID="2bd50acbb5c3b4c8318ef8e2af4663285e91322612bcc84730fb68dce40eb10e" sequence="1">
 									<Linear skipoffset="00:00:06">
