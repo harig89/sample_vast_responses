@@ -112,8 +112,8 @@
 												<![CDATA[ https://a9-vue.s3.amazonaws.com/poddaa-test/csmv3.js ]]>
 											</JavaScriptResource>
 											<VerificationParameters>
-												<![CDATA[{\"vuInstr\":\"https://aax-us-east.amazon-adsystem.com/x/c/x/px/videoTest/\"}]]>
-											</VerificationParameters>
+												<![CDATA[{"vuInstr":"https://aax-us-east.amazon-adsystem.com/x/c/x/px/videoTest/"}]]>
+												</VerificationParameters>
 											<TrackingEvents>
 												<Tracking event="verificationNotExecuted">
 													<![CDATA[https://aax-us-east.amazon-adsystem.com/x/px/IiJkp8oVFFa1yVG2PeOgk3wAAAF5iis2bQYAAAKLBOGX-SU;errorcode=[REASON]]]>
